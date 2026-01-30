@@ -1,4 +1,5 @@
-
+<div align="left">
+  
 # ⚽ Player Contract Renewal Decision Engine
 
 A **Machine Learning–based decision support system** designed to help football clubs, scouting teams, and sporting directors decide whether a player’s contract should be **renewed or not** using data-driven insights.
